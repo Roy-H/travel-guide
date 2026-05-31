@@ -1,0 +1,26 @@
+{
+  "name": "HORIE 家族旅行ガイド",
+  "short_name": "旅行ガイド",
+  "description": "イタリア→マルタ→フランス 2026年7月 家族旅行ガイド",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f4f3ee",
+  "theme_color": "#e8a020",
+  "lang": "ja",
+  "categories": ["travel", "lifestyle"],
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
